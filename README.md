@@ -16,4 +16,3 @@ This project is consist of HTML, CSS, and Javascript to make a quiz for user to 
 
 # Website
 
-https://kevinl206.github.io/Hackerproof/
